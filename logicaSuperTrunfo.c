@@ -74,6 +74,7 @@ int main() {
         printf("Resultado: Empate! Ambas as cidades têm a mesma população.\n");
     }
 
+    
 
       return 0;
 } 
